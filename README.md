@@ -7,7 +7,7 @@ Responsive Prime Gaming Clone for study purposes
 - **NodeJS**: If you don't have it, just download it [here](https://nodejs.org/en/download/)
 - **MongoDb**: If you don't have it, just download it [here](https://www.mongodb.com/try/download/compass)
 
-# Backend
+# Back-End
 
 ## Techs
 
@@ -40,6 +40,8 @@ be able to test each route!
 | /games/:id | GET    | Select Game Loot by ID  |
 | /games/:id | PATCH  | Update Game Loot by ID  |
 | /games/:id | DELETE | Delete Game Loot by ID  |
+
+# Front-End
 
 ## Techs
 
