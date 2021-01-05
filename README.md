@@ -73,11 +73,11 @@ be able to test each route!
 ### Mobile Page
 
 <p>
-  <img width='380' height='586' src="https://i.postimg.cc/MpCXTx41/main-mobile.png" alt='Mobile Page' />
+  <img width='380' height='586' src="https://i.postimg.cc/4xMd2tT6/main-mobile.png" alt='Mobile Page' />
 </p>
 
 <p>
-  <img width='380' height='586' src="https://i.postimg.cc/bNvZVmkS/menu-mobile.png" alt='Menu Mobile' />
+  <img width='380' height='586' src="https://i.postimg.cc/pXWpmRZF/menu-mobile.png" alt='Menu Mobile' />
 </p>
 
 ## Usage
