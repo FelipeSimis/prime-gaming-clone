@@ -25,7 +25,7 @@ Responsive Prime Gaming Clone for study purposes
 
 ## Routes
 
-If you want to test the features created in the project, first download [Insomnia] (https://insomnia.rest/).
+If you want to test the features created in the project, first download [Insomnia](https://insomnia.rest/).
 After downloading Insomnia, perform the steps below to
 be able to test each route!
 
