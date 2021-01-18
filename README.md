@@ -29,6 +29,8 @@ If you want to test the features created in the project, first download [Insomni
 After downloading Insomnia, perform the steps below to
 be able to test each route!
 
+<a href="https://insomnia.rest/run/?label=PrimeGamingClone&uri=https%3A%2F%2Fraw.githubusercontent.com%2FFelipeSimis%2Fprime-gaming-clone%2Fmaster%2Fbackend%2Finsomnia.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
+
 | Route      | HTTP   | Description             |
 | ---------- | ------ | ----------------------- |
 | /loot      | POST   | Create Loot in Game     |
@@ -54,29 +56,19 @@ be able to test each route!
 
 ### Loot Page
 
-<p>
-  <img width='520' height='293' src="https://i.postimg.cc/d1B04C09/main.png" alt='Loot Page' />
-</p>
+[![Image from Gyazo](https://i.gyazo.com/1b94b34436bc455321cf4a11d6c50436.jpg)](https://gyazo.com/1b94b34436bc455321cf4a11d6c50436)
 
-<p>
-  <img width='520' height='293' src="https://i.postimg.cc/Wz2bqwMv/main-2.png" alt='Loot Page' />
-</p>
+[![Image from Gyazo](https://i.gyazo.com/e458ee47568af139b3fbe03c44236596.png)](https://gyazo.com/e458ee47568af139b3fbe03c44236596)
 
 ### Prime Video Page
 
-<p>
-  <img width='520' height='293' src="https://i.postimg.cc/J0P7NHqB/prime-video.png" alt='Prime Video Page' />
-</p>
+[![Image from Gyazo](https://i.gyazo.com/fafc3ea580dadb8b36af13b7d440e776.jpg)](https://gyazo.com/fafc3ea580dadb8b36af13b7d440e776)
 
 ### Mobile Page
 
-<p>
-  <img width='380' height='586' src="https://i.postimg.cc/MpCXTx41/main-mobile.png" alt='Mobile Page' />
-</p>
+[![Image from Gyazo](https://i.gyazo.com/41cf85a8d193a5f809a3a49f30b133c7.png)](https://gyazo.com/41cf85a8d193a5f809a3a49f30b133c7)
 
-<p>
-  <img width='380' height='586' src="https://i.postimg.cc/bNvZVmkS/menu-mobile.png" alt='Menu Mobile' />
-</p>
+[![Image from Gyazo](https://i.gyazo.com/b8924b49c4986d51fc48040ba1eefd06.png)](https://gyazo.com/b8924b49c4986d51fc48040ba1eefd06)
 
 ## Usage
 
